@@ -13,7 +13,7 @@ Authors:
 </ul>
 
 <h2>Included files</h2>
-This repository includes the ATPDraw simulation presenting case 3 described in the article.
+This repository includes the ATPDraw simulation presenting case 3 described in the paper.
 <h2>Requirements</h2>
 ATPDraw 75.
 <h2> Contact</h2>
