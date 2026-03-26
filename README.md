@@ -24,6 +24,8 @@ This repository includes the ATPDraw simulation:
 </ul>
 In all cases, to vary the distance it is necessary to modify the LCC module (CT1_SUB) and to observe the effect of the arresters it is necessary to unhide the element marked as MOV.
 
+To visualize the transformer voltages, it is necessary to plot the signals VCT1A, VCT1B and VCT1C.
+
 <h2>Requirements</h2>
 ATPDraw 75.
 <h2> Contact</h2>
