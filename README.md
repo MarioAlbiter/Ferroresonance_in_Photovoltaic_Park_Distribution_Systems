@@ -22,7 +22,7 @@ This repository includes the ATPDraw simulation:
     <li>Case_3.acp: It includes disconnection with maximum generation power, two-phase delay.</li>
     <li>Case_4.acp: It contains the disconnection with minimum generation power, two-phase delay.</li>
 </ul>
-In all cases, to vary the distance it is necessary to modify the LCC module (CT1_SUB) and to observe the effect of the arresters it is necessary to unhide the element.
+In all cases, to vary the distance it is necessary to modify the LCC module (CT1_SUB) and to observe the effect of the arresters it is necessary to unhide the element marked as MOV.
 
 <h2>Requirements</h2>
 ATPDraw 75.
