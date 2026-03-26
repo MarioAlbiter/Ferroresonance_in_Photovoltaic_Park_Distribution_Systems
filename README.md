@@ -18,7 +18,7 @@ This repository includes the ATPDraw simulation:
 <ul>
     <li>Photovoltaic_Park_Distribution_System.acp: The file contains an overview of the simulation, including the main elements.</li>
     <li>Case_1.acp: It contains the energizing under no-load conditions, one-phase delay.</li>
-    <li>Case_2.acp: It contains the No-Load Disconnection, two-phase delay</li>
+    <li>Case_2.acp: It contains the No-Load Disconnection, two-phase delay.</li>
     <li>Case_3.acp: It includes disconnection with maximum generation power, two-phase delay.</li>
     <li>Case_4.acp: It contains the disconnection with minimum generation power, two-phase delay.</li>
 </ul>
